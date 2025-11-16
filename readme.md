@@ -1,5 +1,5 @@
 # Circular task assignement
-***Lucas Savona (M2 DigiMove), Joël Singer (M1 DigiMove), Morgan Virola (M2 DigiMove)***
+***Lucas Savona (M2 DigiMove), Joël Singer (M1 DigiMove), Morgan Virolan (M2 DigiMove)***
 
 This repository is a workspace where the students can upload, actualize and discuss about the parts of code they are in charge of for the circular task assignement (see ```circular-task-assignment.html```). 
 
