@@ -13,8 +13,6 @@ Files:\
     - ```main```: single notebook with all code\
     - ```circular-task-assignment.html```: assignement document
 \
-\
-\
 ## Teamwork organization
 ### Organization
 We divided the initial recomputing work in three (see below) corresponding to three branches with our names and three different notebooks in the ```notebooks``` folder. We set different roles to handle the rest of the assignement when we finished our branches.
