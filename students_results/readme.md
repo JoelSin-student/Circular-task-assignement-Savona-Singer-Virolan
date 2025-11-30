@@ -1,3 +1,7 @@
 ## Students' results
 
-Code to compute similar performance indices than those in `001MoDe_R1.markers.csv`, and students' results on the circular task.
+Three copies of `main` with the students' results on the circular task.
+
+- LS_main : results with Lucas' data
+- JS_main : results with Joël's data
+- MV_main : results with Morgan's data

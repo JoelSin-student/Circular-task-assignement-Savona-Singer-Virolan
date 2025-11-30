@@ -1,0 +1,39 @@
+software mouseReMoCo;version 1.3.0;isWithLSL false;screenWidth 1902;screenHeight 973;centerX 951;centerY 486;autoStart 3600;cycleMaxNumber 6;cycleDuration 20;borderColor java.awt.Color[r=255,g=255,b=255];textColor java.awt.Color[r=255,g=255,b=255];backgroundColor java.awt.Color[r=0,g=0,b=0];cursorColorRecord java.awt.Color[r=255,g=0,b=0];cursorColorWait java.awt.Color[r=255,g=255,b=0];task circular;cornerX 545;cornerY 80;externalRadius 406;internalRadius 326;borderRadius 1;cursorRadius 16;indexOfDifficulty 48.86179212285402;taskRadius 365.5;taskTolerance 47
+2025-11-30 11:50:29.812 +0100
+
+2025-11-30 11:50:30.584 +0100,1764499830584,KeyTyped=32 ASCI=  DoCycleChange
+2025-11-30 11:50:30.584 +0100,1764499830584,DoCycleChange:DoStartCycleTimedSequence
+2025-11-30 11:50:30.584 +0100,1764499830584,DoCycleChange:DoRecord RecordDone=0 PauseDone=0 ToDo=6
+2025-11-30 11:50:50.596 +0100,1764499850596,DoCycleChange:DoPause RecordDone=1 PauseDone=0 ToDo=6
+2025-11-30 11:51:10.598 +0100,1764499870598,DoCycleChange:DoRecord RecordDone=1 PauseDone=1 ToDo=6
+2025-11-30 11:51:30.607 +0100,1764499890607,DoCycleChange:DoPause RecordDone=2 PauseDone=1 ToDo=6
+2025-11-30 11:51:50.623 +0100,1764499910623,DoCycleChange:DoRecord RecordDone=2 PauseDone=2 ToDo=6
+2025-11-30 11:52:10.637 +0100,1764499930637,DoCycleChange:DoPause RecordDone=3 PauseDone=2 ToDo=6
+2025-11-30 11:52:30.641 +0100,1764499950641,DoCycleChange:DoRecord RecordDone=3 PauseDone=3 ToDo=6
+2025-11-30 11:52:50.657 +0100,1764499970657,DoCycleChange:DoPause RecordDone=4 PauseDone=3 ToDo=6
+2025-11-30 11:53:10.669 +0100,1764499990669,DoCycleChange:DoRecord RecordDone=4 PauseDone=4 ToDo=6
+2025-11-30 11:53:30.681 +0100,1764500010681,DoCycleChange:DoPause RecordDone=5 PauseDone=4 ToDo=6
+2025-11-30 11:53:50.696 +0100,1764500030696,DoCycleChange:DoRecord RecordDone=5 PauseDone=5 ToDo=6
+2025-11-30 11:54:10.709 +0100,1764500050709,DoCycleChange:DoPause RecordDone=6 PauseDone=5 ToDo=6
+2025-11-30 11:54:30.724 +0100,1764500070724,DoCycleChange:DoEndPause RecordDone=6 PauseDone=6 ToDo=6
+2025-11-30 11:54:30.724 +0100,1764500070724,
+    Var , nLaps ,      Re ,      Te ,   error ,  MT/lap , IDe/lap ,      Be ,     IPe ,
+   unit ,   lap ,   pixel ,   pixel ,       % ,   s/lap , bit/lap ,  double ,   bit/s ,
+ Theory ,  1.00 ,  365.50 ,   47.00 ,    3.88 ,         ,         ,    1.00 ,         ,
+ Rec001 ,  3.59 ,  356.92 ,   77.45 ,   27.82 ,    5.29 ,   28.96 ,    1.65 ,    5.48 ,
+ Rec002 ,  3.78 ,  367.02 ,   73.78 ,   18.66 ,    4.98 ,   31.25 ,    1.57 ,    6.28 ,
+ Rec003 ,  3.56 ,  366.62 ,   66.97 ,   16.93 ,    5.19 ,   34.40 ,    1.42 ,    6.63 ,
+ Rec004 ,  3.85 ,  361.54 ,   56.75 ,    8.86 ,    4.91 ,   40.03 ,    1.21 ,    8.15 ,
+ Rec005 ,  4.08 ,  359.30 ,   56.55 ,   13.79 ,    4.53 ,   39.92 ,    1.20 ,    8.81 ,
+ Rec006 ,  3.66 ,  363.55 ,   64.70 ,   13.25 ,    5.05 ,   35.30 ,    1.38 ,    6.99 ,
+2025-11-30 11:54:32.570 +0100,1764500072570,KeyTyped=113 ASCI=q WINDOW_CLOSING
+2025-11-30 11:54:32.573 +0100,1764500072573,
+    Var , nLaps ,      Re ,      Te ,   error ,  MT/lap , IDe/lap ,      Be ,     IPe ,
+   unit ,   lap ,   pixel ,   pixel ,       % ,   s/lap , bit/lap ,  double ,   bit/s ,
+ Theory ,  1.00 ,  365.50 ,   47.00 ,    3.88 ,         ,         ,    1.00 ,         ,
+ Rec001 ,  3.59 ,  356.92 ,   77.45 ,   27.82 ,    5.29 ,   28.96 ,    1.65 ,    5.48 ,
+ Rec002 ,  3.78 ,  367.02 ,   73.78 ,   18.66 ,    4.98 ,   31.25 ,    1.57 ,    6.28 ,
+ Rec003 ,  3.56 ,  366.62 ,   66.97 ,   16.93 ,    5.19 ,   34.40 ,    1.42 ,    6.63 ,
+ Rec004 ,  3.85 ,  361.54 ,   56.75 ,    8.86 ,    4.91 ,   40.03 ,    1.21 ,    8.15 ,
+ Rec005 ,  4.08 ,  359.30 ,   56.55 ,   13.79 ,    4.53 ,   39.92 ,    1.20 ,    8.81 ,
+ Rec006 ,  3.66 ,  363.55 ,   64.70 ,   13.25 ,    5.05 ,   35.30 ,    1.38 ,    6.99 ,
